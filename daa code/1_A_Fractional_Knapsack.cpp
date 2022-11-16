@@ -27,6 +27,7 @@ void fractionalKnapsack(struct data d[],int n,int capacity){
    cout<<"Max profit = "<<profit;
 }
 
+
 int main(){
     int n;
     cout<<"Enter the no of elements = ";
