@@ -160,7 +160,7 @@ int main()
     int choice;
     while (1)
     {
-printf("\nPage Replacement Algorithms\n1.Enter data\n2.FIFO\n3.Optimal\n4.LRU\n5.LFU\n6.Second Chance\n7.Exit\nEnter your choice:");
+printf("\nPage Replacement Algorithms\n1.Enter data\n2.FIFO\n3.Optimal\n4.LRU\n7.Exit\nEnter your choice:");
 scanf("%d",&choice);
 switch(choice)
 {
