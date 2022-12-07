@@ -21,4 +21,8 @@ while(t--){
   
 }
 return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 46a4462855618eb3c4bbd41457ccd33aac9a92cb
