@@ -6,8 +6,7 @@ public:
         int n = s.size(), i = 0;
         string ans = "";
 
-        while (i < n)
-        {
+        while (i < n){
             string temp = "";
 
             while (s[i] == ' ' && i < n)
